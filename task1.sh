@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ecoh > "Hello pmi4hc"
+echo > "Hello pmi4hc"
